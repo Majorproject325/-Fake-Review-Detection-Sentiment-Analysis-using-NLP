@@ -1,5 +1,5 @@
 ﻿# -Fake-Review-Detection-Sentiment-Analysis-using-NLP
-# 🕵️‍♀️ Fake Review Detection & Sentiment Analysis System
+# 🕵️‍♀️ Fake Review Detection with Sentiment Analysis System
 
 A machine learning project that detects fake product reviews and analyzes customer sentiments using NLP techniques. This project combines text classification and sentiment analysis to enhance trust in user-generated reviews and assist customers in making better purchase decisions.
 
